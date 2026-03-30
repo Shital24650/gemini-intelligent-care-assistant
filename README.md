@@ -193,6 +193,13 @@ http://localhost:8501
 
 ---
 
+## 🌐 Live Demo
+
+- Frontend: https://gemini-intelligent-care-assistantfomvhhnvhymxsrcm3xaqob.streamlit.app/ 
+- Backend API: https://gemini-intelligent-care-assistant.onrender.com/
+
+---
+
 ## 🚀 Deployment Guide
 
 ### 🔹 Backend (Render / Railway)
