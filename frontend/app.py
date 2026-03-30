@@ -6,7 +6,7 @@ import re
 # -------------------------------
 # CONFIG
 # -------------------------------
-API_URL = "https://gemini-intelligent-care-assistant.onrender.com/"
+API_URL = "https://gemini-intelligent-care-assistant.onrender.com/analyze"
 
 st.set_page_config(
     page_title="AI Care Assistant",
