@@ -62,9 +62,11 @@ Different outputs for different users:
   - Recommended action  
   - Confidence level  
 
+
 ---
 
 ## 🏗️ Architecture
+<img width="1536" height="1024" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/8bbf24b0-1e7a-4b13-b62d-935389b816f1" />
 
 ---
 
